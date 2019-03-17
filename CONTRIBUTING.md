@@ -6,3 +6,4 @@ Have a few courses in mind that you think are awesome and would fit in this list
 
 - When adding new courses to the various categories, please ensure that alphabetization (ex. CSCE 48 should be listed after CS 240) is maintained. This makes it easier for viewers to find what they are looking for.
 - Next to each course title, you'll notice a few icons. These icons serve to let readers know, at a quick glance, what materials they can expect to find at the courses' websites. The meanings of these icons are explained at the top of [README.md](https://github.com/prakhar1989/awesome-courses/blob/master/README.md), and also appear as a tooltip whenever you hover over them with your mouse arrow. The code needed to add these tags is easily found in [README.md](https://github.com/prakhar1989/awesome-courses/blob/master/README.md), so you can just copy and paste as needed.
+11111111111
